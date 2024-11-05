@@ -14,4 +14,4 @@ I'm proficient in web development like HTML, CSS, JavaScript, and PHP, and I als
 
 ## My stats 📊
 <img align="left" width="47%" alt="Kirushield's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=KirushieldDev&show_icons=true&theme=tokyonight"/>
-<img align="left" width="42%" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirushieldDev&layout=compact&&langs_count=10&theme=tokyonight"/>
+<img align="left" width="42%" alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KirushieldDev&layout=compact&&langs_count=4&theme=tokyonight"/>
